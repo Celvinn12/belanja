@@ -65,6 +65,8 @@ flutter:
     - assets/sepatu_puma.jpeg
     - assets/sepatu_reebok.jpeg
     - assets/sepatu_converse.jpeg
+    - assets/tugas1.png
+    - assets/tugas2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
